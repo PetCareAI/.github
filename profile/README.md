@@ -4,10 +4,10 @@
 
 ### *Revolucionando o cuidado com pets através da Inteligência Artificial*
 
-[![Website](https://img.shields.io/badge/Website-petcare--ai.com-brightgreen?style=for-the-badge&logo=google-chrome)](https://petcare-ai.com)
+[![Website](https://img.shields.io/badge/Website-petcare--ai.com-brightgreen?style=for-the-badge&logo=google-chrome)](https://petcareai.vercel.app)
 [![App Store](https://img.shields.io/badge/App_Store-Download-blue?style=for-the-badge&logo=app-store)](https://apps.apple.com/petcare-ai)
 [![Play Store](https://img.shields.io/badge/Google_Play-Download-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.petcare.ai)
-[![Discord](https://img.shields.io/badge/Discord-Join_Community-7289da?style=for-the-badge&logo=discord)](https://discord.gg/petcare-ai)
+[![Discord](https://img.shields.io/badge/Discord-Join_Community-7289da?style=for-the-badge&logo=discord)](https://discord.gg/JYJNxGNG)
 
 ---
 
